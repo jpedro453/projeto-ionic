@@ -1,0 +1,18 @@
+.item {
+    margin-bottom: 0.4rem;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+}
+.title {
+    font-size: 12px;
+    font-weight: bold;
+}
+.badge {
+    font-size: 10px;
+}
+.price {
+    font-size: 12px;
+}
